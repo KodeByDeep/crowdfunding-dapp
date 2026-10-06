@@ -147,7 +147,7 @@ cn6035-crowdfunding-dapp/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Deep4755/cn6035-crowdfunding-dapp.git
+git clone https://github.com/KodeByDeep/crowdfunding-dapp.git
 cd cn6035-crowdfunding-dapp
 ```
 
@@ -287,7 +287,7 @@ All business rules are enforced in Solidity with `require` statements, meaning n
 - ESLint configured for code quality checks (`npm run lint`)
 - Utility modules separate concerns: `txToast.ts`, `errorHandler.ts`, `web3.ts`
 - Git version control with meaningful commit messages
-- Public GitHub repository: [github.com/Deep4755/cn6035-crowdfunding-dapp](https://github.com/Deep4755/cn6035-crowdfunding-dapp)
+- Public GitHub repository: [github.com/KodeByDeep/crowdfunding-dapp](https://github.com/KodeByDeep/crowdfunding-dapp)
 
 ---
 
