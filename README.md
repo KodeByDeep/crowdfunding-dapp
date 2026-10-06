@@ -83,7 +83,7 @@ The application was developed and tested locally using the **Hardhat** developme
 ## Folder Structure
 
 ```
-cn6035-crowdfunding-dapp/
+crowdfunding-dapp/
 │
 ├── contracts/
 │   └── Crowdfund.sol               # Smart contract (all on-chain logic)
